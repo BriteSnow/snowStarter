@@ -1,0 +1,14 @@
+# Mac stuff, ignore
+.DS_Store
+# Eclipse stuff, should be for each developer, so, ignore
+.classpath
+.project
+.settings
+# since we use Maven, ant buil.xml will be private for each developers
+#  (if they need their own scripts to do some stuff)
+build.xml
+# maven target (we definitely do not want this one in git)
+target/
+# the bin/ folder is the way Snow recommend to output it's .class in eclipse
+# so that snowJetty can take those classes and run the app without having to do a mvn package
+bin/

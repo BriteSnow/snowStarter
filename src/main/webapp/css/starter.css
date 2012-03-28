@@ -1,0 +1,10 @@
+/* TODO: You should clear this css and make it your own (this is not a boostrap css, just a css
+ *       to support the quickstart index page.  
+ * 
+ * NOTE: For advanced application, we recommend going with Twitter Bootstrap and lesscss (Snow has 
+ * builtin it support for less)
+ */
+
+#starterPage h1{
+  text-align: center;
+}
