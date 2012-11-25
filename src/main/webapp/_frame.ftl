@@ -8,7 +8,7 @@
     use the freemarker annotation-->
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <title>My First Snow Application</title>
+    <title>snowStarter: My First Snow Application</title>
     
     <!-- Note 1: this is a Snow freemarker convenient directive to create time based URL to get all 
                the css bundle into one. Check out, WebBundle in the http://britesnow.com/java/snow/ documentation -->

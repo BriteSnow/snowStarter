@@ -46,79 +46,10 @@
     <dependency>
       <groupId>com.britesnow</groupId>
       <artifactId>snow</artifactId>
-      <version>1.9.7</version>
+      <version>1.9.9</version>
     </dependency>
     <!-- /Snow -->  
-    
-    <!-- Logging -->    
-    <dependency>
-      <groupId>org.slf4j</groupId>
-      <artifactId>slf4j-simple</artifactId>
-      <version>1.6.1</version>
-    </dependency>
-    <!-- /Logging -->    
-    
 
-    <!-- Database -->
-  	<!-- Note: Include this "Database" section if you plan to use database -->
-  	
-  	<!-- for database -->
-  	<!-- OPTIONAL: turned off
-  	<dependency>
-      	<groupId>c3p0</groupId>
-      	<artifactId>c3p0</artifactId>
-      	<version>0.9.1.2</version>
-  	</dependency>
-  	
-   	<dependency>
-      <groupId>postgresql</groupId>
-      <artifactId>postgresql</artifactId>
-      <version>8.4-701.jdbc4</version>
-    </dependency>
-    -->
-    <!-- /Database -->	
-    
-    <!-- Hibernate -->
-    <!-- TODO: Remove this section if the project does not use Hibernate -->
-    <!-- TODO: If you project use Hibernate, update the version to the latest one -->
-    <!-- Note: this project use Hibernate, howewer, Hibernate is optional in snow and you can use any other store framework -->
-    <!-- OPTIONAL: turned off
-    <dependency>
-      <groupId>javassist</groupId>
-      <artifactId>javassist</artifactId>
-      <version>3.9.0.GA</version>
-    </dependency>
-    
-    <dependency>
-      <groupId>org.hibernate</groupId>
-      <artifactId>hibernate-core</artifactId>
-      <version>3.5.1-Final</version>
-    </dependency>
-    
-    <dependency>
-      <groupId>org.hibernate</groupId>
-      <artifactId>hibernate-annotations</artifactId>
-      <version>3.5.1-Final</version>
-    </dependency>
-    
-    <dependency>
-      <groupId>org.hibernate.javax.persistence</groupId>
-      <artifactId>hibernate-jpa-2.0-api</artifactId>
-      <version>1.0.0.Final</version>
-    </dependency>
-    
-    <dependency>
-        <groupId>org.hibernate</groupId>
-        <artifactId>hibernate-c3p0</artifactId>
-        <version>3.5.1-Final</version>
-    </dependency>
-	<dependency>
-		<groupId>org.hibernate</groupId>
-		<artifactId>hibernate-validator</artifactId>
-		<version>4.0.0.GA</version>
-	</dependency>
-	-->
-    <!-- /Hibernate -->
     
   </dependencies>
   

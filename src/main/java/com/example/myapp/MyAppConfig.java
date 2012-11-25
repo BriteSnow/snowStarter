@@ -9,7 +9,7 @@ import com.google.inject.AbstractModule;
  * TODO: add/remove bindings to fit your application's need
  * 
  */
-public class MyAppModule extends AbstractModule {
+public class MyAppConfig extends AbstractModule {
 
     @Override
     protected void configure() {

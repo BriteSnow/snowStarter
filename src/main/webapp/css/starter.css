@@ -8,3 +8,17 @@
 #starterPage h1{
   text-align: center;
 }
+
+ul{
+  padding-left: 5px;
+}
+ul ol{
+  padding-left: 5px;
+  line-height: 1.5;
+  font-size: 1.2em;
+}
+
+em{
+  font-family: monospace;
+  color: #5588bb;
+}
